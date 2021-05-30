@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "erp",
+    "MONGO_PASSWORD": "7866492744",
+    "MONGO_DATABASE": "foodApp",
+    "SENDGRID_KEY": "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"
+  }
+}
